@@ -1,14 +1,5 @@
 # terraform-aws-asg-spot-instances
 
-Terraform AWS Setup
-This repository contains a Terraform configuration for setting up an AWS infrastructure with an autoscaling group, load balancer, security group, and ACM certificate using a self-signed TLS certificate.
-
-Certainly! Below is the guide formatted for a GitHub README file.
-
----
-
-# Terraform AWS Setup
-
 This repository contains a Terraform configuration for setting up an AWS infrastructure with an autoscaling group, load balancer, security group, and ACM certificate using a self-signed TLS certificate.
 
 ## Prerequisites
@@ -34,7 +25,7 @@ Before you begin, ensure you have the following:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/terraform-aws-setup.git
+git clone https://github.com/iwebhost4u/terraform-aws-asg-spot-instances.git
 cd terraform-aws-setup
 ```
 
