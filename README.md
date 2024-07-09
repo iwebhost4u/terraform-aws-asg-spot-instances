@@ -17,6 +17,7 @@ Before you begin, ensure you have the following:
   - **VPC ID**
   - **Subnet IDs** (for two private subnets)
   - **EC2 IAM Role**
+  You can use this script to create these resources for you: https://github.com/iwebhost4u/vpc-iam-role
 
 ## Setup Guide
 
