@@ -131,3 +131,5 @@ Contains the Terraform code for creating the load balancer, target group, listen
 ## Conclusion
 
 This setup provides a complete example of using Terraform to create an AWS infrastructure with an autoscaling group, load balancer, and self-signed ACM certificate. By following the steps above, you can deploy the infrastructure in your AWS account. For any questions or issues, feel free to open an issue on the GitHub repository.
+
+Created by Eric Mensah
